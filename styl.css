@@ -1,0 +1,18 @@
+.fa-refresh, .fa-times  {
+  text-align: center !important;
+}
+
+body  {
+  background-image: url('background.jpg');
+  background-size:cover;
+}
+
+th {
+  background-color: rgba(255,255,255,0.4);
+}
+
+h2  {
+  color: black;
+  background-color: rgba(255,255,255,0.4);
+  padding: 10px;
+}
